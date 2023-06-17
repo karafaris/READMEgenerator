@@ -14,7 +14,7 @@ node index.js
 ![Screenshot of terminal](media/READMEgenerator1.jpg)
 
 
-![Screenshot of README file generated][/media/READMEgenerator2.jpg]
+![Screenshot of completed READMe file Generated](media/READMEgenerator2.jpg)
 
 ## Video
 https://youtu.be/8oGWJOKyoh4
