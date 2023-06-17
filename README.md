@@ -11,8 +11,10 @@ Then the application will be invoked by using the following command in the termi
 node index.js
 ```
 ## Screenshots 
-![Screenshot of terminal][\assets\READMEgenerator1.jpg]
-![Screenshot of README file generated][\assets\READMEgenerator2.jpg]
+![Screenshot of terminal][/assets/READMEgenerator1.jpg]
+
+
+![Screenshot of README file generated][/assets/READMEgenerator2.jpg]
 
 ## Video
 https://youtu.be/8oGWJOKyoh4
