@@ -1,7 +1,7 @@
 # 09 Node.js Challenge: Professional README Generator
 
 ## Description
-My motivation was to create a dynamic README file based off what the user inputs. Why I built this project was to be able to easily create a README file based off parameters that I set up. The problem I solved was being able to save time by having a easily intergrating a list of questions that generate a README file easily . What I learned was how to use JavaScript with Node.js. 
+My motivation was to create a dynamic README file based off what the user inputs. Why I built this project was to be able to easily create a README file based off parameters that I set up. The problem I solved was being able to save time by having a easily intergrated list of questions that generate a README file. I learned how to use JavaScript with Node.js
 
 ## Installation: 
 Clone the remote repository or zip the file to your local respository.  
